@@ -85,5 +85,17 @@
   <ItemGroup>
     <None Include="Resources\snaptube_icon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Treetog-I-Floppy-Small.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hopstarter-Sleek-Xp-Software-Windows-Close-Program.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icons8-Windows-8-Editing-Copy.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Mono-General-2-Paste.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -8,3 +8,13 @@ D:\github\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThu
 D:\github\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.csproj.CoreCompileInputs.cache
 D:\github\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.exe
 D:\github\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.pdb
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\bin\Debug\SoThuXiGon.exe.config
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\bin\Debug\SoThuXiGon.exe
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\bin\Debug\SoThuXiGon.pdb
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.csprojResolveAssemblyReference.cache
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.Form1.resources
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.Properties.Resources.resources
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.csproj.GenerateResource.Cache
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.csproj.CoreCompileInputs.cache
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.exe
+C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.pdb

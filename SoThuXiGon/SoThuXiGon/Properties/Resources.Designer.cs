@@ -63,6 +63,16 @@ namespace SoThuXiGon.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Custom_Icon_Design_Mono_General_2_Paste {
+            get {
+                object obj = ResourceManager.GetObject("Custom-Icon-Design-Mono-General-2-Paste", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cut {
             get {
                 object obj = ResourceManager.GetObject("cut", resourceCulture);
@@ -73,9 +83,39 @@ namespace SoThuXiGon.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Hopstarter_Sleek_Xp_Software_Windows_Close_Program {
+            get {
+                object obj = ResourceManager.GetObject("Hopstarter-Sleek-Xp-Software-Windows-Close-Program", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Icons8_Windows_8_Editing_Copy {
+            get {
+                object obj = ResourceManager.GetObject("Icons8-Windows-8-Editing-Copy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap snaptube_icon {
             get {
                 object obj = ResourceManager.GetObject("snaptube_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Treetog_I_Floppy_Small {
+            get {
+                object obj = ResourceManager.GetObject("Treetog-I-Floppy-Small", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
