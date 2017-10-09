@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
+
 namespace SoThuXiGon
 {
     public partial class Form1 : Form
@@ -48,10 +49,30 @@ namespace SoThuXiGon
         {
             if(e.Data.GetDataPresent(DataFormats.Text))
             {
-                ListBox lb = (ListBox)sender;
-                lb.Items.Add(e.Data.GetData(DataFormats.Text));
+                bool test = false;
+                for(int i =0;i< lstDanhSach.Items.Count;i++)
+                {
+                    string st = lstDanhSach.Items[i].ToString();
+                    String dt = e.Data.GetData(DataFormats.Text).ToString();
+                    if (dt == st)
+                        test = true;
+                }
+                if (test == false)
+                {
+                    int newindex = lstDanhSach.IndexFromPoint(lstDanhSach.PointToClient(new Point(e.X, e.Y)));
+                    lstDanhSach.Items.Remove(e.Data.GetData(DataFormats.Text));
+                    if (newindex != -1)
+                        lstDanhSach.Items.Insert(newindex, e.Data.GetData(DataFormats.Text));
+                    else
+
+                    {
+                        ListBox lb = (ListBox)sender;
+                        lb.Items.Add(e.Data.GetData(DataFormats.Text));
+                    }
+                }
             }
         }
+        bool isSave = false;
         private void Save(object sender,EventArgs e)
         {
             // Mo tap tin
@@ -104,6 +125,32 @@ namespace SoThuXiGon
         {
             timer1.Enabled = true;
 
+        }
+
+        private void btnXoa_Click(object sender, EventArgs e)
+        {
+            lstDanhSach.Items.Remove(lstDanhSach.SelectedItem);
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (isSave == false)
+            {
+                DialogResult Kq = MessageBox.Show("Ban co muon luu danh sach?", "Thong bao", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question);
+                if (Kq == DialogResult.Yes)
+                {
+                    Save(sender, e);
+                    e.Cancel = false;
+
+                }
+                else if (Kq == DialogResult.No)
+                    e.Cancel = false;
+                else
+                    e.Cancel = false;
+
+            }
+            else
+                mnuClose_Click(sender, e);
         }
     }
 }

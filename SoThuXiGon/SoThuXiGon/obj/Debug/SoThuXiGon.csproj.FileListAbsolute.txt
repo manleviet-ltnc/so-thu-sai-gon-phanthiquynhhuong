@@ -18,3 +18,13 @@ C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\S
 C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.csproj.CoreCompileInputs.cache
 C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.exe
 C:\Users\thuchanh\Documents\GitHub\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.pdb
+D:\TrangC\Quynhf Hương\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\bin\Debug\SoThuXiGon.exe.config
+D:\TrangC\Quynhf Hương\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\bin\Debug\SoThuXiGon.exe
+D:\TrangC\Quynhf Hương\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\bin\Debug\SoThuXiGon.pdb
+D:\TrangC\Quynhf Hương\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.csprojResolveAssemblyReference.cache
+D:\TrangC\Quynhf Hương\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.Form1.resources
+D:\TrangC\Quynhf Hương\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.Properties.Resources.resources
+D:\TrangC\Quynhf Hương\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.csproj.GenerateResource.Cache
+D:\TrangC\Quynhf Hương\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.csproj.CoreCompileInputs.cache
+D:\TrangC\Quynhf Hương\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.exe
+D:\TrangC\Quynhf Hương\so-thu-sai-gon-phanthiquynhhuong\SoThuXiGon\SoThuXiGon\obj\Debug\SoThuXiGon.pdb
